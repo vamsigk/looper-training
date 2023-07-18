@@ -1,0 +1,4 @@
+#looper config file
+flows
+ default:
+  - shell: echo "Hello world!!"
